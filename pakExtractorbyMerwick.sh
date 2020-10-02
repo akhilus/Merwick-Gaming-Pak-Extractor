@@ -24,4 +24,4 @@ pkg install x11-repo
 pkg install qemu-system-i386
 
 pkg install qemu-user-i386
-sleep 
+
