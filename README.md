@@ -20,7 +20,12 @@ Give yes permission to u r termux app by clicking yes
 5- cd Merwick-Gaming-Pak-Extractor
 --------------------------------------------------------
 
-6- 
+6- chmod +X pakExtractorbyMerwick.sh
+--------------------------------------------------------
+7- ./pakExtractorbyMerwick.sh
+--------------------------------------------------------
+Wait untill all packages installed
+Continue steps in yr 
 
 
 Quickbms usage 
