@@ -14,8 +14,13 @@ Give yes permission to u r termux app by clicking yes
 ------------------------
 3-type Pkg install git clone
 ------------------------
-4-
-Follow my Video url- 
+4-type git clone https://github.com/akhilus/Merwick-Gaming-Pak-Extractor.git
+------------------------------------------------------------------------------
+
+5- cd Merwick-Gaming-Pak-Extractor
+--------------------------------------------------------
+
+6- 
 
 
 Quickbms usage 
