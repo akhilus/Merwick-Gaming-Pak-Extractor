@@ -24,4 +24,17 @@ pkg install x11-repo -y
 pkg install qemu-system-i386 -y
 
 pkg install qemu-user-i386 -y
+wget https://github.com/akhilus/script/blob/main/unreal_tournament_4.PUBGM.bms
+
+
+
+
+
+
+
+
+
+
+
+
 
