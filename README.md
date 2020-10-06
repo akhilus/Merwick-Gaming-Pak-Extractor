@@ -13,7 +13,7 @@ Give yes permission to u r termux app by clicking yes
 
 2-type apt update && apt upgrade 
 ------------------------
-3-type Pkg install git clone -y
+3-type Pkg install git -y
 ------------------------
 4-type git clone https://github.com/akhilus/Merwick-Gaming-Pak-Extractor.git
 ------------------------------------------------------------------------------
